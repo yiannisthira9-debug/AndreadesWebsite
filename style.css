@@ -8,7 +8,7 @@
 body {
   font-family: 'Inter', sans-serif;
   line-height: 1.6;
-  background: #695f88; /* light blue background */
+  background: #06488a; /* light blue background */
   color: #1c0101;
 }
 
@@ -31,7 +31,7 @@ a {
 
 /* ---------- Header ---------- */
 .site-header {
-  background: #64566f;
+  background: #20398a;
   box-shadow: 0 2px 10px rgba(1, 1, 1, 0.06);
   position: sticky;
   top: 0;
@@ -116,7 +116,7 @@ a {
 }
 
 .btn.primary:hover {
-  background: #91aa00;
+  background: #ffffff;
 }
 
 .btn.ghost {
@@ -131,8 +131,9 @@ a {
 
 /* ---------- About Section ---------- */
 .about {
-  background: #64566f;
+  background: #031d49;
   padding: 4rem 2rem;
+  color: #fff;
   border-radius: 12px;
   margin-top: 3rem;
   text-align: center;
@@ -141,7 +142,7 @@ a {
 .about h2 {
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: #000000;
+  color: #ffffff;
 }
 
 /* ---------- Services Section with Video Background ---------- */
@@ -211,8 +212,9 @@ a {
 
 /* ---------- Contact Section ---------- */
 .contact {
-  background: #64566f;
+  background: #031d49;
   padding: 4rem 2rem;
+  color: #ffffff;
   border-radius: 12px;
   margin-top: 3rem;
 }
@@ -220,7 +222,7 @@ a {
 .contact h2 {
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: #000000;
+  color: #ffffff;
   text-align: center;
 }
 
@@ -255,7 +257,7 @@ input, textarea {
 
 /* ---------- Footer ---------- */
 .site-footer {
-  background: #64566f;
+  background: #031d49;
   color: #fff;
   text-align: center;
   padding: 2rem 1rem;
